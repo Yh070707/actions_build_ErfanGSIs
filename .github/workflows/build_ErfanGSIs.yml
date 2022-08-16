@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: https://kft79k7n97334rf9p8403kahq7k1hc577gk0ddjjpghgtdh6g6nfvkeh.qc.x.bsgslb.cn:10443/xdispatchdf49ff136f0c2737/bigota.d.miui.com/V13.0.1.0.RFXCNXM/miui_CRUX_V13.0.1.0.RFXCNXM_69193b67c0_11.0.zip
-  ROM_NAME: MIUI for G8
+  ROM_NAME: MIUI
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
